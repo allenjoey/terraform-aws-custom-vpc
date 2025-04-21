@@ -23,11 +23,17 @@ An internet gateway is deployed and associated with the VPC to enable internet t
 Thus apart from the main route table, our architecture consists of a second route table to which public subnets are explicitly associated. With this as the background, let us start building this VPC design from scratch.
 
 ```
+terraform init
+```
+
+```
 terraform plan -out plan.out
 ```
+
 ```
 terraform apply plan.out
 ```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
