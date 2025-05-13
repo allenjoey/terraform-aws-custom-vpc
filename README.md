@@ -39,4 +39,4 @@ terraform apply plan.out
 
 # Authors
 
-[Author: Joey A](https://github.com/allenjoey)
+[Author: Joey A](https://linkedin.com//in/allen-joey)
