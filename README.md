@@ -1,4 +1,4 @@
-# AWS Terraform Custom VPC
+# Creating a Custom VPC on AWS with Terraform
 
 ## Description
 
